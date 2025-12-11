@@ -172,6 +172,66 @@ Rosenberg identified four emotions that arise from problematic thinking rather t
 
 When these arise, look for the judgments underneath and translate them into needs.
 
+## Expressing Appreciation
+
+From Chapter 13 of *Nonviolent Communication: A Language of Life*, Rosenberg offers guidance on expressing gratitude in a way that truly celebrates life.
+
+### Why Compliments Are Life-Alienating
+
+Rosenberg considered praise and compliments—even positive ones—to be a form of life-alienating communication. When someone says "You're brilliant" or "Great job!", they are making a judgment about who you are rather than sharing how your actions enriched their life.
+
+**The problem with vague praise:**
+- It reveals little about what's going on in the speaker
+- It establishes the speaker as someone who sits in judgment
+- It lacks specificity—the recipient doesn't learn what actually helped
+- It may feel manipulative rather than genuine
+- It can be used as a tool for control or compliance
+
+### The NVC Approach: Celebrating Life
+
+> "When we use NVC to express appreciation, it is purely to celebrate, not to get something in return. Our sole intention is to celebrate the way our lives have been enriched by others."
+
+### Three Components of NVC Appreciation
+
+1. **The specific action** - What did the person do that contributed to your well-being?
+2. **The need fulfilled** - What particular need of yours was met?
+3. **The feeling** - What pleasureful feelings arose from that need being met?
+
+**Template:** "When you [specific action], I felt [feeling] because my need for [need] was met."
+
+### Examples
+
+| Instead of | Say |
+|------------|-----|
+| "You're a great friend" | "When you called to check on me yesterday, I felt touched because my need for connection was met" |
+| "Great presentation!" | "When you included those real-world examples, I felt relieved because I need clarity to understand new concepts" |
+| "You're so talented" | "When you played that piece, I felt moved because it met my need for beauty" |
+| "Thanks for helping" | "When you stayed late to help me finish, I felt grateful because my need for support was met" |
+
+### Receiving Appreciation
+
+Many people struggle to receive appreciation gracefully due to:
+- Childhood messages against self-promotion
+- Fear of appearing arrogant
+- Suspicion that praise is manipulation
+
+**The NVC perspective on receiving appreciation:**
+
+Instead of seeing appreciation as a judgment of your worth, think of yourself as a conduit for goodness in that person's life. You helped connect someone to the wonderful parts of life. The focus shifts from "Am I worthy of this compliment?" to "I'm glad I could contribute to meeting this person's needs."
+
+When receiving appreciation:
+- Take it in as information about how you enriched someone's life
+- Celebrate the connection that occurred
+- Avoid deflecting ("Oh, it was nothing") or inflating ("Yes, I am quite good")
+
+### Why This Matters
+
+When appreciation includes all three components—action, need, and feeling—the receiver:
+- Understands specifically what worked
+- Recognizes the appreciation as genuine
+- Can learn and replicate what was helpful
+- Feels seen for their actual contribution rather than judged
+
 ## Authoritative Sources
 
 - [Center for Nonviolent Communication (CNVC)](https://www.cnvc.org/) - Official organization founded by Marshall Rosenberg
